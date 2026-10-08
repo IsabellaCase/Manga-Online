@@ -1,0 +1,18 @@
+TAGS USADAS    
+     <H1> = TAG PARA CIRAR TITULO
+     <p>= paragrafo
+     <strong> = negrito 
+     <i> = italico
+     <br> Tag pular linhas 
+
+     TAGS MARCAÇÃO 
+    <main> Tag principal da estrutura da tag <body>
+    <footer> = Rodapé da pagina
+    <secretion> =  Dividir o codigo 
+    <div> =  Dividir o codigo 
+    <img> = Tag para imagens
+
+    COMENTARIOS 
+     
+     <--MEU COMENTARIOS
+     
